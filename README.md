@@ -1,11 +1,11 @@
 # FE-Test
-project-root
-├── public
-│   └── index.html
-├── src
-│   ├── components (공통 컴포넌트)
-│   ├── pages (페이지 단위 컴포넌트)
-│   ├── api (서버 API 연동 코드)
+project-root\n
+├── public\n
+│   └── index.html\n
+├── src\n
+│   ├── components (공통 컴포넌트)\n
+│   ├── pages (페이지 단위 컴포넌트)\n
+│   ├── api (서버 API 연동 코드)\n
 │   ├── hooks (커스텀 훅)
 │   ├── contexts (상태 관리 Context)
 │   ├── assets (이미지, 폰트 등)
